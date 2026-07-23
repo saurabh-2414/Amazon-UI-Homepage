@@ -33,7 +33,7 @@ Amazon-Homepage-UI/
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/saurabh-2414/Amazon-UI-Homepage
 ```
 
 2. Open the project folder in Visual Studio Code.
